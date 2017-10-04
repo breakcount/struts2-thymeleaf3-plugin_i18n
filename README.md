@@ -137,3 +137,15 @@ this diarect supported value and errorclass such as thymeleaf spring support.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+这个代码已经被修改 支持 strut2 国际化
+<!-- 国际化资源文件名称 -->
+  <constant name="struts.custom.i18n.resources" value="messageResources" />
+
+
+messageResources_zh.properties
+HELLO=The information you entered is incomplete.
+
+
+html
+  <h2 th:text="#{HELLO}"/>
