@@ -1,0 +1,9 @@
+serendip\struts\plugins\thymeleaf\ThymeleafResult.class
+serendip\struts\plugins\thymeleaf\spring\SpringWebContext.class
+serendip\struts\plugins\thymeleaf\StrutsContext.class
+serendip\struts\plugins\thymeleaf\spi\DefaultTemplateEngineProvider.class
+serendip\struts\plugins\thymeleaf\diarect\FieldErrorAttributeProcessor.class
+serendip\struts\plugins\thymeleaf\spi\TemplateEngineProvider.class
+serendip\struts\plugins\thymeleaf\ThymeleafSpringResult.class
+serendip\struts\plugins\thymeleaf\spring\Beans.class
+serendip\struts\plugins\thymeleaf\diarect\FieldDialect.class
